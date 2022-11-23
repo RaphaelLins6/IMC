@@ -1,4 +1,4 @@
-# Cálculadora de IMC - índice de massa corporal
+# Cálculadora de IMC - índice de massa corporal | BMI Calculator - Body Mass Index
 
 ☠️ Esse código foi um exercício da faculdade em que 
 foi pedido para criar uma cálculadora de imc numa 
