@@ -1,11 +1,11 @@
 # Cálculadora de IMC - índice de massa corporal | BMI Calculator - Body Mass Index
 
 ☠️ Esse código foi um exercício da faculdade em que 
-foi pedido para criar uma cálculadora de imc numa 
+foi pedido para criar uma cálculadora de IMC numa 
 página de HTML que fosse integrado com Javascript. 
 
 ☠️ This code was a faculty exercise in which
-was asked to create an imc calculator in a
+was asked to create an BMI Calculator in a
 HTML page that is integrated with Javascript.
 
 ## Aprendizados
