@@ -8,7 +8,7 @@ página de HTML que fosse integrado com Javascript.
 was asked to create an BMI Calculator in a
 HTML page that is integrated with Javascript.
 
-## Aprendizados
+## Aprendizados | Learnings
 
 ☠️ Aprendi a usar a função script do HTML e linkar
 um arquivo JS no HTML.
@@ -16,7 +16,7 @@ um arquivo JS no HTML.
 ☠️ I learned how to use the HTML script function and link
 a JS file in HTML.
 
-## Stack utilizada
+## Stack utilizada | Stack used
 
 **Front-end:** VS Code | HTML
 
